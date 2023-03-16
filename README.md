@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Michał
-- 👀 I have learned the following skills at a basic level:
+ 👋 Hi, I’m Michał
+ 👀 I have learned the following skills at a basic level:
 * Java
 * Git
 * MySQL
@@ -18,7 +18,7 @@
 * Thymeleaf
 * Selenium WebDriver
 
-- 📫 How to reach me: mrys@tgo.pl
+ 📫 How to reach me: mrys@tgo.pl
 
 # Self introduction
 

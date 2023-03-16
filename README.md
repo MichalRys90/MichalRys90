@@ -1,4 +1,5 @@
  👋 Hi, I’m Michał
+ 
  👀 I have learned the following skills at a basic level:
 * Java
 * Git

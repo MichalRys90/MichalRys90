@@ -1,8 +1,24 @@
 - 👋 Hi, I’m Michał
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on with everyone :)
-- 📫 How to reach me mrys@tgo.pl
+- 👀 I have learned the following skills at a basic level:
+* Java
+* Git
+* MySQL
+* JBDC
+* Kanban Board
+* Jira
+* SpringBoot
+* Spring security
+* Swagger
+* IntelliJ IDEA
+* Hibernate
+* SpringWEB
+* REST API
+* Gradle
+* Junit5, Mockito
+* Thymeleaf
+* Selenium WebDriver
+
+- 📫 How to reach me: mrys@tgo.pl
 
 # Self introduction
 
